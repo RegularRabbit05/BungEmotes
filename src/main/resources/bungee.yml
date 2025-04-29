@@ -1,0 +1,4 @@
+name: BungEmotes
+version: '${project.version}'
+main: me.regdev.bungemotes.BungEmotes
+author: RegularRabbit05
